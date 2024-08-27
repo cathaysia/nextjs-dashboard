@@ -1,0 +1,7 @@
+// ex:set ft=jsonc:
+{
+	"extends": [
+		"next/core-web-vitals"
+		//    "next/typescript"
+	]
+}
